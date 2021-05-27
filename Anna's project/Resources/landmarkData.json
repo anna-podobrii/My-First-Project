@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Paton Bridge",
+        "category": "Sight",
+        "city": "Kyiv",
+        "region": "Kyiv",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "None",
+        "coordinates": {
+            "longitude": 50.427442,
+            "latitude": 30.581715
+        },
+        "description": "Paton Bridge is one of the bridges across the Dnieper in Kyiv, Ukraine named after its constructor Evgeny Paton.[1] Built between 1941 and 1953, it is the world's first all-welded bridge and is also the longest bridge in Kyiv having a length of 1,543 metres (5,062 ft). Traffic across the bridge was opened on 5 November 1953. The bridge also acts as a segment of the Lesser Ring Road of Kyiv.",
+        "imageName": "kyiv"
+    },
+    {
+        "name": "Carpathians",
+        "category": "Mountains",
+        "city": "None",
+        "region": "Zakarpatska Oblast",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "None",
+        "coordinates": {
+            "longitude": 48.367222,
+            "latitude": 24.399781
+        },
+        "description": "The Ukrainian Carpathians (Ukrainian: Українські Карпати) are a section of the Eastern Carpathians, within the borders of modern Ukraine. They are located in the southwestern corner of Western Ukraine, within administrative territories of four Ukrainian regions (oblasts), covering northeastern part of Zakarpattia Oblast, southwestern part of Lviv Oblast, southern half of Ivano-Frankivsk Oblast and western half of Chernivtsi Oblast.[1]The Carpathian economic region (Ukrainian: Карпатський економічний район) in Ukraine, covering four administrative regions (oblasts)They are stretching in general northwest-southeast direction, starting at the tripartite border point of Ukraine with Poland and Slovakia, and continuing towards Ukrainian border with Romania. In terms of geological classification, Ukrainian Carpathians belong to two distinctive categories, with major part belonging to the Outer Eastern Carpathians and minor part to the Inner Eastern Carpathians.",
+        "imageName": "karp"
+    },
+    {
+        "name": "Kamianets Podilskyi Castle",
+        "category": "Castles",
+        "city": "Kamianets Podilskyi",
+        "region": "Khmelnytskyi Oblast",
+        "id": 1020,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "None",
+        "coordinates": {
+            "longitude": 48.673659,
+            "latitude": 26.562614
+        },
+        "description": "Kamianets-Podilskyi Castle (Ukrainian: Кам'янець-Подільська фортеця; Polish: twierdza w Kamieńcu Podolskim; Russian: Каменец-Подольская крепость; Turkish: Kamaniçe Kalesi) is a former Ruthenian-Lithuanian[1] castle and a later three-part Polish fortress[2][3][4] located in the historic city of Kamianets-Podilskyi, Ukraine, in the historic region of Podolia in the western part of the country. Its name is attributed to the root word kamin', from the Slavic word for stone.Historical accounts date Kamianets-Podilskyi Castle to the early 14th century, although recent archaeological evidence has proved human existence in the area back to the 12th or 13th century.[5] Initially built to protect the bridge connecting the city with the mainland,[6] the castle sits on top of a peninsula carved out by the winding Smotrych River, forming a natural defense system for Kamianets-Podilskyi's historic Old Town neighborhood.",
+        "imageName": "kam"
+    }
+    
+   ]
