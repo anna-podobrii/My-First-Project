@@ -20,9 +20,10 @@ struct LandmarkDetail: View {
         ScrollView {
             MapView(coordinate: landmark.locationCoordinate)
                 .ignoresSafeArea(edges: .top)
-                .frame(height: 200)
+                .frame(height: 300)
             
             CircleImage(image: landmark.image)
+                
                 .offset(y: -130)
                 .padding(.bottom, -130)
             
@@ -60,7 +61,7 @@ struct LandmarkDetail_Previews: PreviewProvider {
     static let modelData = ModelData()
 
     static var previews: some View {
-        LandmarkDetail(landmark: modelData.landmarks[0])
+        LandmarkDetail(landmark: modelData.landmarks[3])
             .environmentObject(modelData)
     }
 }

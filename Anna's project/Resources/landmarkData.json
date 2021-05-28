@@ -1,7 +1,7 @@
 [
     {
         "name": "Paton Bridge",
-        "category": "Sight",
+        "category": "Sights",
         "city": "Kyiv",
         "region": "Kyiv",
         "id": 1001,
@@ -46,6 +46,38 @@
         },
         "description": "Kamianets-Podilskyi Castle (Ukrainian: Кам'янець-Подільська фортеця; Polish: twierdza w Kamieńcu Podolskim; Russian: Каменец-Подольская крепость; Turkish: Kamaniçe Kalesi) is a former Ruthenian-Lithuanian[1] castle and a later three-part Polish fortress[2][3][4] located in the historic city of Kamianets-Podilskyi, Ukraine, in the historic region of Podolia in the western part of the country. Its name is attributed to the root word kamin', from the Slavic word for stone.Historical accounts date Kamianets-Podilskyi Castle to the early 14th century, although recent archaeological evidence has proved human existence in the area back to the 12th or 13th century.[5] Initially built to protect the bridge connecting the city with the mainland,[6] the castle sits on top of a peninsula carved out by the winding Smotrych River, forming a natural defense system for Kamianets-Podilskyi's historic Old Town neighborhood.",
         "imageName": "kam"
+    },
+    {
+        "name": "Zbarazh Castle",
+        "category": "Castles",
+        "city": " Zbarazh",
+        "region": "Ternopil Oblast",
+        "id": 1021,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "None",
+        "coordinates": {
+            "longitude": 25.785696,
+            "latitude": 49.663388
+        },
+        "description": "Zbarazh Castle (Ukrainian: Збаразький замок, Polish: Zamek w Zbarażu) is a fortified defense stronghold in Zbarazh, built during the times of the Polish–Lithuanian Commonwealth. It dominates the crests of the Zamkova Hills of Ternopil Oblast in Western Ukraine next to the city's central plaza that was not in so distant past surrounded by marshland. The castle existence has been credited to last members of the Polish Zbaraski family; Krzysztof and Jerzy Zbaraski.Evidence of the City of Zbarazh formation can be seen in the Ruthenia fortress dating back to 1211 that was positioned somewhat away from current castle. Today this is a village of Zbarazky District located in the immediate proximity of Zbarazh itself and called the Village of Stary Zbarazh. At that distant time the old castle and the province was ruled by Gediminids Landlords Zbarazky.The castle is known for being the seat of the Polish aristocratic Wiśniowiecki family and its prominent members, most notably Jeremi Wiśniowiecki.",
+        "imageName": "zbr"
+    },
+    {
+        "name": "Merefa-Kherson bridge",
+        "category": "Sights",
+        "city": " Kherson",
+        "region": "Kherson Oblast",
+        "id": 1022,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "None",
+        "coordinates": {
+            "longitude": 35.082949,
+            "latitude": 48.467458
+        },
+        "description": "The Merefa-Kherson bridge is a 1,600 m (5,249.3 ft) single track railway bridge crossing the Dnieper in Dnipro and part of the railway line between cities of Merefa and Kherson.The second oldest bridge in the city, and the first railway-arch bridge in the Soviet Union, at the time of its construction it was the longest reinforced concrete arched bridge in Europe. It crosses from the right bank of the Dnieper, over the and Monastyrskyi Island, continuing over the main body of the river to its left bank.",
+        "imageName": "mxs"
     }
     
    ]
