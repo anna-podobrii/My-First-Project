@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		952EE7052660FA77003040C1 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952EE7042660FA77003040C1 /* FavoriteButton.swift */; };
 		9538FBFE265A7D200014CFDB /* Anna_s_projectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9538FBFD265A7D200014CFDB /* Anna_s_projectApp.swift */; };
 		9538FC02265A7D210014CFDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9538FC01265A7D210014CFDB /* Assets.xcassets */; };
 		9538FC05265A7D210014CFDB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9538FC04265A7D210014CFDB /* Preview Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		952EE7042660FA77003040C1 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		9538FBFA265A7D200014CFDB /* Anna's project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Anna's project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9538FBFD265A7D200014CFDB /* Anna_s_projectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anna_s_projectApp.swift; sourceTree = "<group>"; };
 		9538FC01265A7D210014CFDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				95F77E36265BDA57001B279F /* CircleImage.swift */,
 				95F77E30265BD067001B279F /* LandmarkRow.swift */,
 				95F77E32265BD3B8001B279F /* LandmarkList.swift */,
+				952EE7042660FA77003040C1 /* FavoriteButton.swift */,
 				95F77E34265BD56B001B279F /* LandmarkDetail.swift */,
 				95F77E38265BE305001B279F /* ContentView.swift */,
 			);
@@ -190,6 +193,7 @@
 				95F77E24265BC010001B279F /* Landmark.swift in Sources */,
 				95F77E26265BC0A6001B279F /* Model1Data.swift in Sources */,
 				9538FC11265A85AC0014CFDB /* MapView.swift in Sources */,
+				952EE7052660FA77003040C1 /* FavoriteButton.swift in Sources */,
 				95F77E37265BDA57001B279F /* CircleImage.swift in Sources */,
 				9538FBFE265A7D200014CFDB /* Anna_s_projectApp.swift in Sources */,
 				95F77E39265BE305001B279F /* ContentView.swift in Sources */,

@@ -22,7 +22,7 @@
         "region": "Zakarpatska Oblast",
         "id": 1010,
         "isFeatured": true,
-        "isFavorite": true,
+        "isFavorite": false,
         "park": "None",
         "coordinates": {
             "longitude": 24.399781,
