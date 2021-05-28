@@ -12,8 +12,7 @@ struct ContentView: View {
         LandmarkList()
     }
 }
-//fff gh
-//fgbgпррооо
+
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
